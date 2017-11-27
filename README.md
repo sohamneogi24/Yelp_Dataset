@@ -64,3 +64,8 @@ Deployment / Infrastructure Details
 Reference Sources
 
 https://www.yelp.com/dataset/documentation/json https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+
+
+Video URL
+
+https://www.youtube.com/watch?v=nudb7iET7Q0
