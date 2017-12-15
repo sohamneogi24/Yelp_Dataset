@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Yelp_Data_Analysis.iml" filepath="$PROJECT_DIR$/.idea/Yelp_Data_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Final-Submission-Repo/Yelp_Dataset/Yelp_Flask/.idea/Yelp_Flask.iml" filepath="$PROJECT_DIR$/../Final-Submission-Repo/Yelp_Dataset/Yelp_Flask/.idea/Yelp_Flask.iml" />
+    </modules>
+  </component>
+</project>
