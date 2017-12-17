@@ -1,3 +1,16 @@
+Live URL :
+
+http://35.227.37.113/
+
+Existing User :
+username : test1
+password : ""
+
+Cold Start User:
+username : <username>
+password : <password>
+ 
+
 Overview
 
 Yelp.com is the go-to website for anybody looking for recommendations about local businesses. Over the period of time, it has become quite popular for restaurant recommendations as users find it easier to judge a local business by reading reviews about that business posted by other users. In addition to writing reviews and rating local businesses, user can react to reviews, plan events or start up a discussion forum. Yelp has about 135 million monthly customers and 95 million reviews.
